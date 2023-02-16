@@ -30,7 +30,7 @@ public void afterclass(Scenario sc) {
 		
 	}
 	
-	
+	driver.quit();
 }
 
 
