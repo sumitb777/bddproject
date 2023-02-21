@@ -25,7 +25,7 @@ public class searchsteps extends base {
 	public void user_should_see_not_found_massage() {
 	  String text=qa.message().getText();
 	  System.out.println(text);
-	  assertEquals("No posts matching the query: phone.",text);
+	  assertEquals("No posts matching the query: phone. Show all posts",text);
 	}
 
 	

@@ -14,7 +14,7 @@ import io.cucumber.junit.CucumberOptions;
 		"json:target/json-report/cucumber.json"
 ,"html:target/htmlreport/cucumber.html",
 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"})
-public class Testrunner {
+public class runner_Test {
 	
 	
 	
